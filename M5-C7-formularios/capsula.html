@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M5-C7-Formularios y eventos</title>
+</head>
+<body>
+
+    <div style="display: flex; justify-content: space-around; font-family: Arial, Helvetica, sans-serif">
+        <div>
+            <form method="" action="#" id="formulario">
+
+                <h1>Datos</h1>
+                <input name="name" type="text" />
+                <input name="email" type="email" />
+                <input name="birthDate" type="date" />
+                
+                <h1>Gustos</h1>
+                <input type="checkbox" name="music" />¿Te gusta la música?</input>
+                <input type="checkbox"  name="dessert" />¿Te gustan los postres?</input>
+
+                <h1>Opciones</h1>
+                <label>Elige un número del 1 al 4</label>
+
+                <select id="decisions">
+                    <option value="1">Número 1</option>
+                    <option value="2">Número 2</option>
+                    <option value="3">Número 3</option>
+                    <option value="4">Número 4</option>
+                </select>
+                
+                <hr />
+
+                <button id="enviar" type="submit">
+                    Enviar
+                </button>
+
+            </form>
+
+        </div>
+
+        <div id="informe"></div>
+
+    </div>
+
+    <script src="./capsula.js"></script>
+</body>
+</html>

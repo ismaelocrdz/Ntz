@@ -1,0 +1,28 @@
+console.log("Módulo 03")
+console.log("Cápsula 01")
+console.log("Sintaxis de Arreglos")
+console.log("\n")
+console.log("Ejercicio 01")
+console.log("Crear un arreglo con 10 elementos. Cada uno de ellos debe ser un nombre distinto")
+console.log("\n")
+const people=["Rosa Celeste","Rosa Melcacho","Elver Galarga","Alma Marcela","Memo Herdez","Carmelo Tallas","Elsa Porrico","Pato Carlo","Lisa Melchotto","Elsa Pito"]
+console.log("\n")
+console.log("Ejercicio 02")
+console.log("Usar length para conocer la longitud del arreglo")
+console.log("\n")
+console.log(people.length)
+
+console.log("\n")
+console.log("Ejercicio 03")
+console.log("Usar length para conocer el último elemento del arreglo")
+console.log("\n")
+console.log(people.length)
+console.log(people[people.length-1])
+
+console.log("\n")
+console.log("Ejercicio 03")
+console.log("Crear un arreglo que incluya 4 elementos. Cada uno debe ser un tipo de dato diferente")
+console.log("\n")
+const dataType=[550,true,"Teorino Laraya",null]
+console.log(dataType.length)
+console.log(dataType[dataType.length-1])

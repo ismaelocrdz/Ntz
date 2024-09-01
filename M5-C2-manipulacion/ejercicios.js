@@ -1,0 +1,41 @@
+/*
+  NETZUN.COM
+  INSTRUCTOR: MIKE NIEVA
+  JAVASCRIPT BÁSICO
+
+  MÓDULO 5
+  CÁPSULA 2. "MANIPULACIÓN GENERAL DEL DOM I"
+*/
+
+//============EJERCICIOS============//
+//==================================//
+//==================================//
+
+
+//==================================//
+/* 
+  EJERCICIO 1: 
+  CREA UNA ETIQUETA DIV Y UN "CHILD" DE LA MISMA CON UNA ETIQUETA "P" EN EL ARCHIVO DE EJERCICIOS.HTML
+*/
+
+//================= =================//
+/* 
+  EJERCICIO 2: 
+  ACCEDE A AMBAS ETIQUETAS CREADAS ANTERIORMENTE UTILIZANDO UN QUERY SELECTOR. COMPRUEBA CON UN
+  CONSOLE.LOG QUE EL ACCESO ES CORRRECTO.
+*/
+
+
+//==================================//
+/* EJERCICIO 3:
+  REEMPLAZA CON UN INNERHTML EL CONTENIDO DE LA ETIQUETA DIV, CON UN H1. EL TEXTO DE ESTA NUEVA ETIQUETA ES LIBRE.
+*/
+
+
+
+//==================================//
+/* EJERCICIO 4: 
+  ESTABLECE EN ESTE NUEVO H1 EL COLOR AZUL COMO PARTE DEL TEXTO. UTILIZA STYLE PARA REALIZAR EL CAMBIO.
+*/
+
+

@@ -1,0 +1,32 @@
+/*
+  NETZUN.COM
+  INSTRUCTOR: MIKE NIEVA
+  JAVASCRIPT BÁSICO
+
+  MÓDULO 2
+  CÁPSULA 2. "CREACIÓN Y GESTIÓN DE OBJETOS"
+*/
+
+//============EJERCICIOS============//
+//==================================//
+//==================================//
+
+
+//==================================//
+/* 
+  EJERCICIO 1: CREA UN OBJETO "MESA" CON 3 PROPIEDADES. CONSIDERA A LA TERCERA PROPIEDAD MANEJARLA CON "DOBLE COMILLA".
+  A) COLOR (STRING)
+  B) ALTURACM (NUMBER)
+  C) INCLUYE VIDRIO (BOOLEAN)  
+*/
+
+
+
+
+//================= =================//
+/* 
+  EJERCICIO 2: 
+  DEL OBJETO ANTERIOR, ACCEDE A CADA UNA DE LAS PROPIEDADES UTILIZANDO "DOT NOTATION" Y "BRACKET NOTATION". RECUERDA UTILIZAR CONSOLE.LOG PARA PODER OBSERVAR EL RESULTADO.
+*/
+
+
