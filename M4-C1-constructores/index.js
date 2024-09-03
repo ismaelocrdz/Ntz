@@ -18,3 +18,5 @@ function Home(tipo){
         return "Estoy asegurando las puertas"
     }
 }
+
+//Agregamos línea

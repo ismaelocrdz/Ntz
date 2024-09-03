@@ -4,6 +4,7 @@ console.log("Constructores")
 console.log("\n")
 function Transporte(tipo){
     //Agregamos propiedades
+    //Agregamos línea
     this.tipo=tipo
     //this.tipo=tipo
     this.llantas=4
