@@ -5,6 +5,7 @@ console.log("\n")
 function Transporte(tipo){
     //Agregamos propiedades
     this.tipo=tipo
+    //this.tipo=tipo
     this.llantas=4
     //Agregamos métodos
     this.acelerar=function(){
