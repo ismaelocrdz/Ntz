@@ -25,6 +25,7 @@ console.log(evenNumbers)
 console.log("\n")
 console.log("Ejercicio 03")
 console.log("A partir del arreglo, crea uno nuevo usando reduce para obtener un nuevo arreglo que multiplique todos sus elementos")
+//console.log("\n")
 console.log("\n")
 console.log(numbers)
 const total=numbers.reduce(function(multiply,value){

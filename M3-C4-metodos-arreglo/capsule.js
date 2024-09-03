@@ -3,6 +3,7 @@ console.log("Módulo 03")
 console.log("Cápsula 04")
 console.log("Métodos de Arreglo II")
 console.log("filter")
+//console.log("\n")
 console.log("\n")
 console.log("A partir de un arreglo, se buscan elementos que cumplan una condición y se incluyen en otro arreglo. El resto, quedan fuera")
 const numbers=[2,4,6,8]
